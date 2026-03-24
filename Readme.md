@@ -77,11 +77,19 @@ Your report should contain:
 
 - **Screenshots** of layout and results (including eye diagrams)
 - Graph of 10GB
-Low Noise: image
-High Noise: image
+Low Noise: 
+<img width="1920" height="962" alt="image" src="https://github.com/user-attachments/assets/75a9d785-bda3-4d9a-bf78-e182ef9a09a4" />
+
+High Noise:
+<img width="1920" height="944" alt="image" src="https://github.com/user-attachments/assets/e4b924c1-0c5e-482d-9679-9dd222b6e483" />
+
 Graph of 2.5 GB
 Low Noise: image
+<img width="1920" height="942" alt="image" src="https://github.com/user-attachments/assets/1f1164f4-e11a-4e00-b5c4-efa7f525f8aa" />
+
 High Noise: image
+<img width="1920" height="949" alt="image" src="https://github.com/user-attachments/assets/9ab82c7e-35c6-41f4-b8ce-d1bfa52d6e2e" />
+
 Tabulation:
 <img width="898" height="1581" alt="image" src="https://github.com/user-attachments/assets/30a8adbc-699a-46e5-84a1-a32b9feb6737" />
 
