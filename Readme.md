@@ -75,11 +75,15 @@ Your report should contain:
 
 - **Pre-lab Calculations**  
 
-- **Screenshots** of layout and results (including eye diagrams)  
+- **Screenshots** of layout and results (including eye diagrams)
+- Graph of 10GB
+Low Noise: image
+High Noise: image
+Graph of 2.5 GB
+Low Noise: image
+High Noise: image
+Tabulation:
+<img width="898" height="1581" alt="image" src="https://github.com/user-attachments/assets/30a8adbc-699a-46e5-84a1-a32b9feb6737" />
 
-- **Summary Table** for each simulation:
-  | Fiber Length (km) | Received Power (dBm) | Q Factor | BER |
-  |-------------------|-----------------------|----------|-----|
-  
-
-- **Written Summary** of observations and explanations of differences.  
+ Result:
+ thus the experiment was succesfully completed and output is verified
