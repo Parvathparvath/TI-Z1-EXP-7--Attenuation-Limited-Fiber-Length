@@ -76,12 +76,19 @@ Your report should contain:
 - **Pre-lab Calculations**  
 
 - **Screenshots** of layout and results (including eye diagrams)
+
 - Graph of 10GB
 Low Noise: 
 <img width="1920" height="962" alt="image" src="https://github.com/user-attachments/assets/75a9d785-bda3-4d9a-bf78-e182ef9a09a4" />
 
 High Noise:
 <img width="1920" height="944" alt="image" src="https://github.com/user-attachments/assets/e4b924c1-0c5e-482d-9679-9dd222b6e483" />
+
+## Block Diagram
+
+### Attenuation-Limited Fiber Length 2.5GB
+
+<img width="714" height="377" alt="image" src="https://github.com/user-attachments/assets/8d891e89-9bcb-4909-bfdf-33b63c1a40ec" />
 
 Graph of 2.5 GB
 Low Noise: image
